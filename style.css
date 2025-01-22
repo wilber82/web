@@ -1,12 +1,25 @@
-.black-text {
-    color: black;
-    font-family: 'Courier New', Courier;
+.left{
+    float: left;
+    width: 50%;
+    background-color: aquamarine;
 }
 
-.gray-text {
-    color: gray;
+.right{
+    float: right;
+    width: 50%;
+    background-color: chocolate;
 }
 
-.red-text {
-    color: red;
+footer{
+    clear: both;
+    background-color: darkcyan;
+    text-align: center;
+}
+
+.img_left{
+    float: left;
+}
+
+.img_right{
+    float: right;
 }
